@@ -23,6 +23,7 @@ const Navbar = () => {
     { name: 'Team', path: '/team' },
     { name: 'Impact Hub', path: '/impact' },
     { name: 'Partners', path: '/partners' },
+    { name: 'Gallery', path: '/gallery' },
     { name: 'Contact', path: '/contact' },
   ];
 

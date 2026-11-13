@@ -1,0 +1,92 @@
+{
+  "albums": [
+    {
+      "slug": "programs",
+      "title": "In the Field",
+      "description": "Regenerative farming, agroecology and training in Busoga.",
+      "alt": "Edwards Hamlet programs in the field",
+      "photos": [
+        {
+          "src": "https://readdy.ai/api/search-image?query=diverse%20agroecology%20farm%20in%20uganda%20with%20multiple%20crops%20growing%20together%20intercropping%20system%20vegetables%20and%20grains%20mixed%20planting%20sustainable%20polyculture%20agriculture%20green%20healthy%20plants%20natural%20farming%20busoga%20region&width=1200&height=800&seq=prog-detail-agroecology&orientation=landscape",
+          "alt": "Diverse agroecology farm in uganda with multiple crops growing together intercropping system vegetables and grains mixed"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=biochar%20production%20kiln%20in%20rural%20uganda%20traditional%20charcoal%20making%20process%20for%20soil%20improvement%20agricultural%20waste%20conversion%20sustainable%20carbon%20farming%20smoke%20rising%20from%20earth%20kiln%20african%20innovation&width=1200&height=800&seq=prog-detail-biochar&orientation=landscape",
+          "alt": "Biochar production kiln in rural uganda traditional charcoal making process for soil improvement agricultural waste conversion"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=community%20tree%20planting%20project%20in%20uganda%20local%20people%20planting%20young%20tree%20seedlings%20reforestation%20effort%20micro%20forest%20initiative%20busoga%20region%20green%20landscape%20environmental%20restoration%20teamwork&width=1200&height=800&seq=prog-detail-forestry&orientation=landscape",
+          "alt": "Community tree planting project in uganda local people planting young tree seedlings reforestation effort micro forest"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=coffee%20plantation%20in%20busoga%20uganda%20with%20ripe%20red%20coffee%20cherries%20on%20plants%20arabica%20coffee%20farm%20lush%20green%20coffee%20trees%20sustainable%20coffee%20production%20african%20coffee%20growing%20tourism%20experience%20farmers%20harvesting&width=1200&height=800&seq=prog-detail-coffee&orientation=landscape",
+          "alt": "Coffee plantation in busoga uganda with ripe red coffee cherries on plants arabica coffee farm lush"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=african%20youth%20learning%20computer%20and%20technology%20skills%20in%20rural%20tech%20lab%20young%20people%20using%20laptops%20and%20tablets%20digital%20literacy%20training%20modern%20classroom%20in%20uganda%20empowerment%20program%20students%20engaged&width=1200&height=800&seq=prog-detail-digital&orientation=landscape",
+          "alt": "African youth learning computer and technology skills in rural tech lab young people using laptops"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=healthy%20rich%20dark%20soil%20in%20hands%20of%20farmer%20in%20uganda%20fertile%20earth%20with%20organic%20matter%20soil%20restoration%20composting%20sustainable%20agriculture%20regenerative%20farming%20practices%20close%20up%20of%20living%20soil&width=1200&height=800&seq=prog-detail-soil&orientation=landscape",
+          "alt": "Healthy rich dark soil in hands of farmer in uganda fertile earth with organic matter soil"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=demonstration%20farm%20in%20uganda%20showing%20multiple%20sustainable%20agriculture%20practices%20diverse%20crops%20agroforestry%20systems%20training%20area%20busoga%20region%20aerial%20view%20regenerative%20agriculture%20hub%20educational%20farm&width=1920&height=1080&seq=programs-hero&orientation=landscape",
+          "alt": "Demonstration farm in uganda showing multiple sustainable agriculture practices diverse crops agroforestry systems training area busoga"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=successful%20sustainable%20farm%20in%20uganda%20showing%20positive%20impact%20thriving%20crops%20happy%20farmers%20community%20gathering%20busoga%20region%20regenerative%20agriculture%20results%20green%20landscape%20transformation&width=1920&height=1080&seq=impact-hero&orientation=landscape",
+          "alt": "Successful sustainable farm in uganda showing positive impact thriving crops happy farmers community gathering busoga region"
+        }
+      ]
+    },
+    {
+      "slug": "community",
+      "title": "Community",
+      "description": "The people and places of the Hamlet.",
+      "alt": "Edwards Hamlet community",
+      "photos": [
+        {
+          "src": "https://readdy.ai/api/search-image?query=aerial%20drone%20view%20of%20lush%20green%20ugandan%20farmland%20with%20coffee%20plantations%20and%20microforests%20in%20busoga%20region%20vibrant%20agricultural%20landscape%20with%20rolling%20hills%20sustainable%20farming%20terraces%20rich%20soil%20and%20dense%20vegetation%20golden%20hour%20lighting%20cinematic%20photography%20high%20definition%20nature%20meets%20technology%20aesthetic&width=1920&height=1080&seq=hero-bg-main&orientation=landscape",
+          "alt": "Aerial drone view of lush green ugandan farmland with coffee plantations and microforests in busoga region"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=ugandan%20farmer%20working%20in%20diverse%20agroecology%20farm%20with%20multiple%20crops%20intercropping%20system%20sustainable%20agriculture%20green%20plants%20natural%20farming%20methods%20african%20agriculture%20busoga%20region%20bright%20natural%20lighting&width=600&height=400&seq=prog-agroecology&orientation=landscape",
+          "alt": "Ugandan farmer working in diverse agroecology farm with multiple crops intercropping system sustainable agriculture green plants"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=biochar%20production%20process%20in%20rural%20african%20setting%20charcoal%20making%20for%20soil%20improvement%20sustainable%20carbon%20farming%20traditional%20kiln%20with%20agricultural%20waste%20smoke%20and%20fire%20uganda%20farming%20innovation&width=600&height=400&seq=prog-biochar&orientation=landscape",
+          "alt": "Biochar production process in rural african setting charcoal making for soil improvement sustainable carbon farming traditional"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=fish%20farming%20pond%20in%20uganda%20aquaculture%20system%20integrated%20with%20agriculture%20tilapia%20farming%20sustainable%20protein%20production%20rural%20african%20fish%20farm%20clear%20water%20natural%20environment&width=600&height=400&seq=prog-aquaculture&orientation=landscape",
+          "alt": "Fish farming pond in uganda aquaculture system integrated with agriculture tilapia farming sustainable protein production rural"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=community%20tree%20planting%20in%20uganda%20micro%20forest%20project%20local%20people%20planting%20seedlings%20reforestation%20effort%20busoga%20region%20green%20landscape%20community%20engagement%20environmental%20restoration&width=600&height=400&seq=prog-forestry&orientation=landscape",
+          "alt": "Community tree planting in uganda micro forest project local people planting seedlings reforestation effort busoga region"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=coffee%20plantation%20in%20busoga%20uganda%20ripe%20red%20coffee%20cherries%20on%20plants%20arabica%20coffee%20farm%20lush%20green%20coffee%20trees%20sustainable%20coffee%20production%20african%20coffee%20growing%20tourism%20experience&width=600&height=400&seq=prog-coffee&orientation=landscape",
+          "alt": "Coffee plantation in busoga uganda ripe red coffee cherries on plants arabica coffee farm lush green"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=african%20youth%20learning%20computer%20skills%20in%20rural%20tech%20lab%20digital%20literacy%20training%20young%20people%20using%20laptops%20technology%20education%20in%20uganda%20modern%20classroom%20empowerment%20program&width=600&height=400&seq=prog-digital&orientation=landscape",
+          "alt": "African youth learning computer skills in rural tech lab digital literacy training young people using laptops"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=ugandan%20community%20working%20together%20on%20sustainable%20farm%20project%20diverse%20group%20of%20farmers%20and%20youth%20learning%20regenerative%20agriculture%20busoga%20region%20teamwork%20training%20session%20outdoor%20education%20green%20landscape&width=800&height=600&seq=about-story&orientation=landscape",
+          "alt": "Ugandan community working together on sustainable farm project diverse group of farmers and youth learning regenerative"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=diverse%20group%20of%20people%20shaking%20hands%20partnership%20collaboration%20international%20cooperation%20business%20meeting%20outdoor%20setting%20with%20nature%20background%20teamwork%20unity%20professional%20networking&width=1920&height=1080&seq=partners-hero&orientation=landscape",
+          "alt": "Diverse group of people shaking hands partnership collaboration international cooperation business meeting outdoor setting with nature"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=modern%20office%20meeting%20space%20with%20nature%20view%20professional%20consultation%20area%20green%20plants%20natural%20lighting%20welcoming%20environment%20uganda%20business%20setting%20contemporary%20design&width=1920&height=1080&seq=contact-hero&orientation=landscape",
+          "alt": "Modern office meeting space with nature view professional consultation area green plants natural lighting welcoming environment"
+        }
+      ]
+    }
+  ]
+}

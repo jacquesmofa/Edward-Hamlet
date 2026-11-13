@@ -7,6 +7,7 @@ const ProgramsPage = lazy(() => import('../pages/programs/page'));
 const TeamPage = lazy(() => import('../pages/team/page'));
 const ImpactPage = lazy(() => import('../pages/impact/page'));
 const PartnersPage = lazy(() => import('../pages/partners/page'));
+const GalleryPage = lazy(() => import('../pages/gallery/page'));
 const ContactPage = lazy(() => import('../pages/contact/page'));
 const NotFound = lazy(() => import('../pages/NotFound'));
 
@@ -34,6 +35,10 @@ const routes: RouteObject[] = [
   {
     path: '/partners',
     element: <PartnersPage />,
+  },
+  {
+    path: '/gallery',
+    element: <GalleryPage />,
   },
   {
     path: '/contact',
